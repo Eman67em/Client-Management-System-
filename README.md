@@ -1,4 +1,4 @@
-# Bank Branch Client Managment system – JavaScript Web App
+# Bank Branch Client Management system – JavaScript Web App
 
 A simple browser-based application to store new clients data for a bank branch using HTML, CSS, and JavaScript with LocalStorage.
 
